@@ -1,0 +1,1 @@
+# keras_raspoznavanie_chisel
